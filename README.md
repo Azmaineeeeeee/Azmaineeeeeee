@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Azmaineeeeeee
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning the MERN Stack
+- 👋 Hi, I’m @Azmaine
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning the Node Js, Express Js, SQL
 - 💞️ I’m looking to collaborate on open-source real-world projects.
 - 📫 You can reach me at @azmainemushfiq@gmail.com
 
